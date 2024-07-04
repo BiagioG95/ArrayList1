@@ -12,7 +12,7 @@ public class Main {
 
 
         for (Student student : students) {
-            System.out.println("Gli Studenti sono: " + student);
+            System.out.println(student);
         }
     }
 }
